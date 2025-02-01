@@ -14,7 +14,7 @@ This project provides an API for predicting insurance charges based on user inpu
  - [File Structure](#file-structure)
  - [License](#license)
 
-## Decription
+## Description
 The FastAPI application loads the trained Logistic Regression model and exposes an endpoint for predicting insurance charges based on user's input. The model is trained on the following features:
 - Age
 - Gender
